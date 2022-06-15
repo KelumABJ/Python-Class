@@ -9,9 +9,9 @@
     "nav": "Press[1] to got to Mammoth Cave National Park, Kentucky, USA --- Press[2] to got to Mount Everest, Napal --- Press[3] to got to Amazon River, America",
     "win": 0,
     "lose": 0,
-    "dealer": 1,
+    "dealer": 0,
     "doctor": 0,
-    "weather": 1,
+    "weather": 0,
     "ninja": 0
   },
   {
